@@ -1,0 +1,18 @@
+# 🔐 Do not push secrets
+.env
+
+# 🧹 Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# 💻 Ignore IDE/editor settings
+.vscode/
+.idea/
+
+# 🗑️ Ignore system files
+.DS_Store
+Thumbs.db
+
+# 📝 Log and temp files
+*.log
+*.tmp
